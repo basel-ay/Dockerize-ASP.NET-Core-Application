@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\BSL\\Projects\\Dockerize-ASP.NET-Core-Application\\dockerhrapp\\HRApp.csproj": {}
+  },
+  "projects": {
+    "D:\\BSL\\Projects\\Dockerize-ASP.NET-Core-Application\\dockerhrapp\\HRApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BSL\\Projects\\Dockerize-ASP.NET-Core-Application\\dockerhrapp\\HRApp.csproj",
+        "projectName": "HRApp",
+        "projectPath": "D:\\BSL\\Projects\\Dockerize-ASP.NET-Core-Application\\dockerhrapp\\HRApp.csproj",
+        "packagesPath": "C:\\Users\\BA\\.nuget\\packages\\",
+        "outputPath": "D:\\BSL\\Projects\\Dockerize-ASP.NET-Core-Application\\dockerhrapp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\BA\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
