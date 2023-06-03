@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BSL\\Projects\\Dockerize-ASP.NET-Core-Application\\dockerhrapp\\HRApp.csproj",
+      "projectUniqueName": "D:\\BSL\\Projects\\Dockerize-ASP.NET-Core-Application\\HRApp.csproj",
       "projectName": "HRApp",
-      "projectPath": "D:\\BSL\\Projects\\Dockerize-ASP.NET-Core-Application\\dockerhrapp\\HRApp.csproj",
+      "projectPath": "D:\\BSL\\Projects\\Dockerize-ASP.NET-Core-Application\\HRApp.csproj",
       "packagesPath": "C:\\Users\\BA\\.nuget\\packages\\",
-      "outputPath": "D:\\BSL\\Projects\\Dockerize-ASP.NET-Core-Application\\dockerhrapp\\obj\\",
+      "outputPath": "D:\\BSL\\Projects\\Dockerize-ASP.NET-Core-Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
